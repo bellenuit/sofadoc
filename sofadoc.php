@@ -617,7 +617,7 @@ if (!$file)
 {
 	// show map
 	
-	echo '<h1>SofaDoc Map</h1>';
+	echo '<h1>Map</h1>';
 	
 	echo '<table><tr><td width=33% valign=top>';
 	
