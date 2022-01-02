@@ -7,6 +7,10 @@ SofaDoc is a simple live documentation of PHP source code. SofaDoc recognizes Ja
 - Includes
 - Features: what group of PHP built in functions are used
 
+# Demo
+
+A live demonstration of SofaDoc is the documentation of SofaWiki on https://www.sofawiki.com/sofadoc.php
+
 # Usage
 
 Just drop the sofadoc.php file in the main folder of your code and it will explore the files starting with index.php. There is no configuration needed. The documentation is very fast (less than a second for the entire sofawiki codebase).
